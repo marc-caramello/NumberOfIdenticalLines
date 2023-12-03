@@ -5,7 +5,8 @@ banana
 orange  
 banana  
 apple  
-  
+_________________________
+
 And produces an output file that would look like this  
   
 apple = 2  
